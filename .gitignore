@@ -1,0 +1,10 @@
+# The virtual env
+venv/
+.venv/
+# From django
+db.sqlite3
+*.log
+
+#python cache
+__pycache__/
+*.py[cod]
